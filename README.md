@@ -14,7 +14,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 - Binary files only, distributed memory implementation on MPI, on shared memory based on TBB
 - Hierarchical format: H and H^2
 
-### [AHMED](http://bebendorf.ins.uni-bonn.de/AHMED.html). Mario Bebendorf and Sergej Rjasanow (University of Bonn) 
+### [AHMED](http://bebendorf.ins.uni-bonn.de/AHMED.html) Mario Bebendorf and Sergej Rjasanow (University of Bonn) 
 - Source code available through online license agreement.
 - Hierarchical format: H
 

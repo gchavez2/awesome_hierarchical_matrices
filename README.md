@@ -4,13 +4,13 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 ## C
 
-### [Hlib](http://hlib.org/) Lars Grasedyck and Steffen Börm (Leipzig, Max Plank Institute)
+### [Hlib](http://hlib.org/) Lars Grasedyck and Steffen Börm (Leipzig, Max Planck Institute)
 - Source code available through signed license agreement.
 - Hierarchical format: H and H^2
 
 ## C++
 
-### [HLIBpro](http://www.hlibpro.com) Ronald Kriemann (Leipzig, Max Plank Institute)
+### [HLIBpro](http://www.hlibpro.com) Ronald Kriemann (Leipzig, Max Planck Institute)
 - Binary files only, distributed memory implementation on MPI, on shared memory based on TBB
 - Hierarchical format: H and H^2
 

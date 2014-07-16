@@ -15,12 +15,12 @@ If you want to contribute to this list (please do), send me a pull request or co
 ** Hierarchical format: H and H^2
 
 * [AHMED](http://bebendorf.ins.uni-bonn.de/AHMED.html) - Mario Bebendorf and Sergej Rjasanow (Bonn University) 
-** Source code available trough online license agreement.
-** Hierarchical format: H
+- Source code available trough online license agreement.
+- Hierarchical format: H
 
-* [DMHM](http://bebendorf.ins.uni-bonn.de/AHMED.html) - Jack Poulson and Ryan Li (Stanford and Georgia Tech) 
-** Open source
-** Hierarchical format: HSS
+* [DMHM](https://bitbucket.org/poulson/dmhm) - Jack Poulson and Ryan Li (Stanford and Georgia Tech) 
+* Open source
+* Hierarchical format: HSS
 
 
 ## Matlab

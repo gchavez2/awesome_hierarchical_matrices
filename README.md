@@ -1,4 +1,4 @@
-Curated list of Hierarchical Matrices (H-Matrices) frameworks, libraries and software (by language). Inspired by the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
+Curated list of Hierarchical Matrices (H-Matrices) frameworks, libraries, and software (by language). Inspired by the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
 
 If you want to contribute to this list (please do), send me a pull request or contact me [@gusChvz](https://www.twitter.com/gusChvz).
 

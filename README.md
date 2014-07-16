@@ -25,5 +25,5 @@ If you want to contribute to this list (please do), send me a pull request or co
 ## Matlab
 
 ### [Misc](http://amath.colorado.edu/faculty/martinss/2014_CBMS/codes.html) Gunnar Martinsson (University of Colorado Boulder) 
-- Various scripts, Randomized SVD, Interpolative decomposition, Multi frontal solvers.
+- Various scripts, Randomized SVD, Interpolative decomposition, Multi-frontal solvers.
 - Hierarchical format: S,HSS

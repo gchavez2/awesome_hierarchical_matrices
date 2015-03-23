@@ -25,7 +25,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 - Open source
 - Hierarchical format: HSS
 
-### [STRUMPACK] (http://portal.nersc.gov/project/sparse/strumpack/) Xiaoye S. Li (PI), Pieter Ghysels, François-Henry Rouet (Lawrence Berkeley National Laboratory)
+### [STRUMPACK] (http://portal.nersc.gov/project/sparse/strumpack/) Xiaoye S. Li, Pieter Ghysels, François-Henry Rouet (Lawrence Berkeley National Laboratory)
 - Open source
 - Hierarchical format: HSS
 
@@ -54,7 +54,3 @@ If you want to contribute to this list (please do), send me a pull request or co
 ### [H2Tools](https://bitbucket.org/muxas/h2tools) Alexander Mikhalev (Russian Academy of Sciences) 
 - Open source
 - Hierarchical format: H^2
-
-
-·
-

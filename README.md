@@ -33,7 +33,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 - Open source
 - Hierarchical format: HODLR
 
-### [Dense_HODLR] (https://github.com/H2Lib/H2Lib) Steffen Boerm, Knut Reimer, Dirk Boysen, Sven Christophersen, Nadine Albrecht, and Jens Burmeister.  (University of Kiel)
+### [H2Lib] (https://github.com/H2Lib/H2Lib) Steffen Boerm, Knut Reimer, Dirk Boysen, Sven Christophersen, Nadine Albrecht, and Jens Burmeister.  (University of Kiel)
 - Open source
 - Hierarchical format: H^2
 

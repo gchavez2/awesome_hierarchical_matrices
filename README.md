@@ -8,6 +8,10 @@ If you want to contribute to this list (please do), send me a pull request or co
 ### [Hlib](http://hlib.org/) Lars Grasedyck and Steffen Börm (Leipzig, Max Planck Institute)
 - Source code available through signed license agreement.
 - Hierarchical format: H and H^2
+- 
+### [H2Lib] (https://github.com/H2Lib/H2Lib) Steffen Boerm, Knut Reimer, Dirk Boysen, Sven Christophersen, Nadine Albrecht, and Jens Burmeister.  (University of Kiel)
+- Open source
+- Hierarchical format: H and H^2
 
 
 
@@ -32,10 +36,6 @@ If you want to contribute to this list (please do), send me a pull request or co
 ### [Dense_HODLR] (https://github.com/amiraa127/Dense_HODLR) Amirhossein Aminfar (Stanford University)
 - Open source
 - Hierarchical format: HODLR
-
-### [H2Lib] (https://github.com/H2Lib/H2Lib) Steffen Boerm, Knut Reimer, Dirk Boysen, Sven Christophersen, Nadine Albrecht, and Jens Burmeister.  (University of Kiel)
-- Open source
-- Hierarchical format: H^2
 
 
 

@@ -9,7 +9,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 - Source code available through signed license agreement.
 - Hierarchical format: H and H^2
 
-### [H2Lib] (hhttp://www.h2lib.org/) Steffen Boerm, Knut Reimer, Dirk Boysen, Sven Christophersen, Nadine Albrecht, and Jens Burmeister.  (University of Kiel)
+### [H2Lib] (http://www.h2lib.org/) Steffen Boerm, Knut Reimer, Dirk Boysen, Sven Christophersen, Nadine Albrecht, and Jens Burmeister.  (University of Kiel)
 - Open source
 - Hierarchical format: H and H^2
 

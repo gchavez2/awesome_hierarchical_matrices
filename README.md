@@ -48,7 +48,7 @@ If you want to contribute to this list, fell free to create a pull request.
 - Randomized SVD on GPU
 - C and matlab codes
 
-### [HMat](https://github.com/YingzhouLi/HMat) Haizhao Yang and Yingzhou Li (Stanford University)
+### [HMat](https://github.com/YingzhouLi/HMat) Haizhao Yang and Yingzhou Li (Duke University and Stanford University)
 - Hierarchical Matrices in Julia and Matlab 
 - Matlab library for many types of structured matrices
 

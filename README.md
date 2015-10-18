@@ -27,7 +27,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 ### [DMHM](https://bitbucket.org/poulson/dmhm) Jack Poulson and Ryan Li (Stanford University and Georgia Tech) 
 - Open source
-- Hierarchical format: HSS
+- Hierarchical format: H
 
 ### [STRUMPACK] (http://portal.nersc.gov/project/sparse/strumpack/) Xiaoye S. Li, Pieter Ghysels, François-Henry Rouet (Lawrence Berkeley National Laboratory)
 - Open source
@@ -47,6 +47,10 @@ If you want to contribute to this list (please do), send me a pull request or co
 ### [RSVDPACK](https://github.com/sergeyvoronin/LowRankSVDCodes) Sergey Voronin and Per-Gunnar Martinsson (University of Colorado Boulder) 
 - Randomized SVD on GPU
 - C and matlab codes
+
+### [HMat](https://github.com/YingzhouLi/HMat) Haizhao Yang and Yingzhou Li (Stanford University)
+- Hierarchical Matrices in Julia and Matlab 
+- Matlab library for many types of structured matrices
 
 
 

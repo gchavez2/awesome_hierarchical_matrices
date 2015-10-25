@@ -1,8 +1,5 @@
 Curated list of [Hierarchical Matrices](http://en.wikipedia.org/wiki/Hierarchical_matrix) (H-Matrices) frameworks, libraries, and software (by language). Inspired by the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
 
-If you want to contribute to this list, fell free to create a pull request.
-
-
 ## C
 
 ### [Hlib](http://hlib.org/) Lars Grasedyck and Steffen Börm (Leipzig, Max Planck Institute)
@@ -59,6 +56,13 @@ If you want to contribute to this list, fell free to create a pull request.
 - Open source
 - Hierarchical format: H^2
 
-
-A 2015 list of publications in Hierarchical Matrices can be found at
+## Publications
+### 2015 publications
 [http://gustavochavez.org/hierarchical-matrix-papers-2015/](http://gustavochavez.org/hierarchical-matrix-papers-2015/)
+### 2014 publications:
+[http://gustavochavez.org/hierarchical-matrix-papers-2014/](http://gustavochavez.org/hierarchical-matrix-papers-2014/)
+### 2013 publications:
+[http://gustavochavez.org/hierarchical-matrix-papers-2013/](http://gustavochavez.org/hierarchical-matrix-papers-2013/)
+
+## Feeling generous?
+If you want to contribute to this repository, fell free to create a pull request or send me an e-mail

@@ -58,3 +58,7 @@ If you want to contribute to this list, fell free to create a pull request.
 ### [H2Tools](https://bitbucket.org/muxas/h2tools) Alexander Mikhalev (Russian Academy of Sciences) 
 - Open source
 - Hierarchical format: H^2
+
+
+A 2015 list of publications in Hierarchical Matrices can be found at
+[http://gustavochavez.org/hierarchical-matrix-papers-2015/](http://gustavochavez.org/hierarchical-matrix-papers-2015/)

@@ -53,14 +53,17 @@ Curated list of [Hierarchical Matrices](http://en.wikipedia.org/wiki/Hierarchica
 - Hierarchical Matrices in Julia and Matlab 
 - Matlab library for many types of structured matrices
 
-
+## Fortran
+### [SSS_Toeplitz](http://www.math.purdue.edu/~xiaj/frameright.html) Jianlin Xia and J. Zhu (Purdue University) 
+- Superfast SSS Toeplitz solver
+- Hierarchical format: HSS
 
 ## Python
 ### [H2Tools](https://bitbucket.org/muxas/h2tools) Alexander Mikhalev (Russian Academy of Sciences) 
 - Open source
 - Hierarchical format: ![](https://latex.codecogs.com/gif.latex?%5Cmathcal%7BH%7D%5E2)
 
-## Publications
+## Collection of publications about H-Matrices by year
 ### 2015 publications
 [http://gustavochavez.org/hierarchical-matrix-papers-2015/](http://gustavochavez.org/hierarchical-matrix-papers-2015/)
 ### 2014 publications:

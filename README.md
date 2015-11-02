@@ -41,6 +41,10 @@ Curated list of [Hierarchical Matrices](http://en.wikipedia.org/wiki/Hierarchica
 - Various scripts, Randomized SVD, Interpolative decomposition, Multi-frontal solvers.
 - Hierarchical format: S, HSS
 
+### [HSS](http://www.math.purdue.edu/~xiaj/) 	Jianlin Xia (Purdue University)
+- Hierarchically SemiSeparable package
+- Hierarchical format: HSS
+
 ### [RSVDPACK](https://github.com/sergeyvoronin/LowRankSVDCodes) Sergey Voronin and Per-Gunnar Martinsson (University of Colorado Boulder) 
 - Randomized SVD on GPU
 - C and Matlab codes

@@ -18,9 +18,12 @@ Curated list of [Hierarchical Matrices](http://en.wikipedia.org/wiki/Hierarchica
 - Binary files only, distributed memory implementation on MPI, on shared memory based on TBB
 - Hierarchical format: ![](https://latex.codecogs.com/gif.latex?%5Cmathcal%7BH%7D) and ![](https://latex.codecogs.com/gif.latex?%5Cmathcal%7BH%7D%5E2)
 
-### [AHMED](http://bebendorf.ins.uni-bonn.de/AHMED.html) Mario Bebendorf and Sergej Rjasanow (University of Bonn) 
+### [AHMED](https://github.com/xantares/ahmed) Mario Bebendorf and Sergej Rjasanow (University of Bonn) 
 - Source code available through online license agreement.
 - Hierarchical format: ![](https://latex.codecogs.com/gif.latex?%5Cmathcal%7BH%7D)
+
+### [BEM++](https://github.com/bempp/bempp) W. Smigaj, S. Arridge, T. Betcke, J. Phillips, M. Schweiger (University College London)
+- Boundary Integral Problems with BEM++, accelerated by H-Matrices
 
 ### [DMHM](https://bitbucket.org/poulson/dmhm) Jack Poulson and Ryan Li (Stanford University and Georgia Tech) 
 - Open source
@@ -63,12 +66,12 @@ Curated list of [Hierarchical Matrices](http://en.wikipedia.org/wiki/Hierarchica
 - Open source
 - Hierarchical format: ![](https://latex.codecogs.com/gif.latex?%5Cmathcal%7BH%7D%5E2)
 
-## Collection of publications about H-Matrices by year
-### 2015 publications
+## Collection H-Matrix papers by year
+### 2015
 [http://gustavochavez.org/hierarchical-matrix-papers-2015/](http://gustavochavez.org/hierarchical-matrix-papers-2015/)
-### 2014 publications:
+### 2014
 [http://gustavochavez.org/hierarchical-matrix-papers-2014/](http://gustavochavez.org/hierarchical-matrix-papers-2014/)
-### 2013 publications:
+### 2013
 [http://gustavochavez.org/hierarchical-matrix-papers-2013/](http://gustavochavez.org/hierarchical-matrix-papers-2013/)
 
 ## Feeling generous?

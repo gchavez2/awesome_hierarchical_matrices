@@ -69,10 +69,6 @@ Curated list of [Hierarchical Matrices](http://en.wikipedia.org/wiki/Hierarchica
 ## Collection H-Matrix papers by year
 ### 2015
 [http://gustavochavez.org/hierarchical-matrix-papers-2015/](http://gustavochavez.org/hierarchical-matrix-papers-2015/)
-### 2014
-[http://gustavochavez.org/hierarchical-matrix-papers-2014/](http://gustavochavez.org/hierarchical-matrix-papers-2014/)
-### 2013
-[http://gustavochavez.org/hierarchical-matrix-papers-2013/](http://gustavochavez.org/hierarchical-matrix-papers-2013/)
 
 ## Feeling generous?
 If you want to contribute to this repository, fell free to create a pull request or send me an e-mail

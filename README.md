@@ -2,6 +2,8 @@
 
 Curated list of [Hierarchical Matrices](http://en.wikipedia.org/wiki/Hierarchical_matrix) (H-Matrices) frameworks, libraries, and software (by language). Inspired by the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
 
+***
+
 ## C
 
 ### [Hlib](http://hlib.org/) Lars Grasedyck and Steffen Börm (Leipzig, Max Planck Institute)
@@ -58,19 +60,25 @@ Curated list of [Hierarchical Matrices](http://en.wikipedia.org/wiki/Hierarchica
 - Hierarchical Matrices in Julia and Matlab 
 - Matlab library for many types of structured matrices
 
+
 ## Fortran
 ### [SSS_Toeplitz](http://www.math.purdue.edu/~xiaj/frameright.html) Jianlin Xia and J. Zhu (Purdue University) 
 - Superfast SSS Toeplitz solver
 - Hierarchical format: HSS
+
 
 ## Python
 ### [H2Tools](https://bitbucket.org/muxas/h2tools) Alexander Mikhalev (Russian Academy of Sciences) 
 - Open source
 - Hierarchical format: ![](https://latex.codecogs.com/gif.latex?%5Cmathcal%7BH%7D%5E2)
 
-## Collection H-Matrix papers by year
+
+## Collection of H-Matrices papers:
+### 2016
+[http://gustavochavez.org/hierarchical-matrix-papers-2016/](http://gustavochavez.org/hierarchical-matrix-papers-2016/)
 ### 2015
 [http://gustavochavez.org/hierarchical-matrix-papers-2015/](http://gustavochavez.org/hierarchical-matrix-papers-2015/)
 
+***
 ## Feeling generous?
-If you want to contribute to this repository, fell free to create a pull request or send me an e-mail
+Contributions to this repository are most welcome.

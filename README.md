@@ -1,3 +1,5 @@
+![H-Matrices](https://img.shields.io/badge/H-Matrices-green.svg "H-Matrices")
+
 Curated list of [Hierarchical Matrices](http://en.wikipedia.org/wiki/Hierarchical_matrix) (H-Matrices) frameworks, libraries, and software (by language). Inspired by the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
 
 ## C

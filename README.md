@@ -1,5 +1,7 @@
 Curated list of [Hierarchical Matrices](http://en.wikipedia.org/wiki/Hierarchical_matrix) (H-Matrices) frameworks, libraries, and software (by language). Inspired by the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
 
+[![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star)](https://github.com/gchavez2/awesome-hierarchical-matrices)
+
 ## C
 
 ### [Hlib](http://hlib.org/) Lars Grasedyck and Steffen Börm (Leipzig, Max Planck Institute)

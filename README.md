@@ -41,7 +41,12 @@ Curated list of [Hierarchical Matrices](http://en.wikipedia.org/wiki/Hierarchica
 - Open source
 - Hierarchical format: HODLR
 
+### [Structured CHOLMOD] (https://github.com/jeffchadwick/rank_structured_cholesky/tree/master/src) David Bindel (Cornell University)
+- Open source
 
+### [LoRaSp] (https://bitbucket.org/hadip/lorasp) Chao Chen (Stanford University)
+- Open source
+- Hierarchical format: H^2
 
 ## Matlab
 ### [Misc](http://amath.colorado.edu/faculty/martinss/2014_CBMS/codes.html) Per-Gunnar Martinsson (University of Colorado Boulder) 

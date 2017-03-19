@@ -78,12 +78,6 @@ Curated list of [Hierarchical Matrices](http://en.wikipedia.org/wiki/Hierarchica
 - Hierarchical format: ![](https://latex.codecogs.com/gif.latex?%5Cmathcal%7BH%7D%5E2)
 
 
-## Collection of H-Matrices papers:
-### 2016
-[http://gustavochavez.org/hierarchical-matrix-papers-2016/](http://gustavochavez.org/hierarchical-matrix-papers-2016/)
-### 2015
-[http://gustavochavez.org/hierarchical-matrix-papers-2015/](http://gustavochavez.org/hierarchical-matrix-papers-2015/)
-
 ***
 ## Feeling generous?
 Contributions to this repository are most welcome.

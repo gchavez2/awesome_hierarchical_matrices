@@ -33,18 +33,18 @@ Curated list of [Hierarchical Matrices](http://en.wikipedia.org/wiki/Hierarchica
 - Open source
 - Hierarchical format: ![](https://latex.codecogs.com/gif.latex?%5Cmathcal%7BH%7D)
 
-### [STRUMPACK] (http://portal.nersc.gov/project/sparse/strumpack/) Xiaoye S. Li, Pieter Ghysels, François-Henry Rouet (Lawrence Berkeley National Laboratory)
+### [STRUMPACK](http://portal.nersc.gov/project/sparse/strumpack/) Xiaoye S. Li, Pieter Ghysels, François-Henry Rouet (Lawrence Berkeley National Laboratory)
 - Open source
 - Hierarchical format: HSS
 
-### [Dense_HODLR] (https://github.com/amiraa127/Dense_HODLR) Amirhossein Aminfar (Stanford University)
+### [Dense_HODLR](https://github.com/amiraa127/Dense_HODLR) Amirhossein Aminfar (Stanford University)
 - Open source
 - Hierarchical format: HODLR
 
-### [Structured CHOLMOD] (https://github.com/jeffchadwick/rank_structured_cholesky/tree/master/src) David Bindel (Cornell University)
+### [Structured CHOLMOD](https://github.com/jeffchadwick/rank_structured_cholesky/tree/master/src) David Bindel (Cornell University)
 - Open source
 
-### [LoRaSp] (https://bitbucket.org/hadip/lorasp) Chao Chen (Stanford University)
+### [LoRaSp](https://bitbucket.org/hadip/lorasp) Chao Chen (Stanford University)
 - Open source
 - Hierarchical format: H^2
 

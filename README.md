@@ -10,7 +10,7 @@ Curated list of [Hierarchical Matrices](http://en.wikipedia.org/wiki/Hierarchica
 - Source code available through signed license agreement.
 - Hierarchical format: ![](https://latex.codecogs.com/gif.latex?%5Cmathcal%7BH%7D) and ![](https://latex.codecogs.com/gif.latex?%5Cmathcal%7BH%7D%5E2)
 
-### [H2Lib] (http://www.h2lib.org/) Steffen Boerm, Knut Reimer, Dirk Boysen, Sven Christophersen, Nadine Albrecht, and Jens Burmeister.  (University of Kiel)
+### [H2Lib](http://www.h2lib.org/) Steffen Boerm, Knut Reimer, Dirk Boysen, Sven Christophersen, Nadine Albrecht, and Jens Burmeister.  (University of Kiel)
 - Open source
 - Hierarchical format: ![](https://latex.codecogs.com/gif.latex?%5Cmathcal%7BH%7D) and ![](https://latex.codecogs.com/gif.latex?%5Cmathcal%7BH%7D%5E2)
 

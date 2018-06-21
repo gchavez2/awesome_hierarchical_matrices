@@ -71,6 +71,11 @@ Curated list of [Hierarchical Matrices](http://en.wikipedia.org/wiki/Hierarchica
 - Superfast SSS Toeplitz solver
 - Hierarchical format: HSS
 
+### [HACApK](https://github.com/hoshino-UTokyo/hacapk-gpu) Akihiro Ida (The University of Tokyo) 
+- Lattice H-matrices
+- Hierarchical format: H
+
+
 
 ## Python
 ### [H2Tools](https://bitbucket.org/muxas/h2tools) Alexander Mikhalev (Russian Academy of Sciences) 

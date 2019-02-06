@@ -33,9 +33,9 @@ Curated list of [Hierarchical Matrices](http://en.wikipedia.org/wiki/Hierarchica
 - Open source
 - Hierarchical format: ![](https://latex.codecogs.com/gif.latex?%5Cmathcal%7BH%7D)
 
-### [STRUMPACK](http://portal.nersc.gov/project/sparse/strumpack/) Xiaoye S. Li, Pieter Ghysels, François-Henry Rouet (Lawrence Berkeley National Laboratory)
+### [STRUMPACK](http://portal.nersc.gov/project/sparse/strumpack/) X. Sherry Li, Pieter Ghysels, Gustavo Chávez, Yang Liu (Lawrence Berkeley National Laboratory)
 - Open source
-- Hierarchical format: HSS
+- Hierarchical format: HSS, HOLDR, BLR 
 
 ### [Dense_HODLR](https://github.com/amiraa127/Dense_HODLR) Amirhossein Aminfar (Stanford University)
 - Open source

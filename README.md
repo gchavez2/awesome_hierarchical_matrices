@@ -46,7 +46,7 @@ Curated list of [Hierarchical Matrices](http://en.wikipedia.org/wiki/Hierarchica
 
 ### [LoRaSp](https://bitbucket.org/hadip/lorasp) Hadi Pouransari and Eric Darve (Stanford University)
 - Open source
-- Hierarchical format: H^2
+- Hierarchical format: ![](https://latex.codecogs.com/gif.latex?%5Cmathcal%7BH%7D%5E2)
 
 ## Matlab
 ### [Misc](http://amath.colorado.edu/faculty/martinss/2014_CBMS/codes.html) Per-Gunnar Martinsson (University of Colorado Boulder) 
@@ -73,12 +73,12 @@ Curated list of [Hierarchical Matrices](http://en.wikipedia.org/wiki/Hierarchica
 
 ### [HACApK](https://github.com/hoshino-UTokyo/hacapk-gpu) Akihiro Ida (The University of Tokyo) 
 - Lattice H-matrices
-- Hierarchical format: H
+- Hierarchical format: ![](https://latex.codecogs.com/gif.latex?%5Cmathcal%7BH%7D)
 
 
 
 ## Python
-### [H2Tools](https://bitbucket.org/muxas/h2tools) Alexander Mikhalev (Russian Academy of Sciences) 
+### [H2Tools](https://bitbucket.org/muxas/h2tools) Alexander Mikhalev (KAUST / Russian Academy of Sciences) 
 - Open source
 - Hierarchical format: ![](https://latex.codecogs.com/gif.latex?%5Cmathcal%7BH%7D%5E2)
 

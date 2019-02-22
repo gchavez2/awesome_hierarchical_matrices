@@ -14,8 +14,6 @@ Curated list of [Hierarchical Matrices](http://en.wikipedia.org/wiki/Hierarchica
 - Open source
 - Hierarchical format: ![](https://latex.codecogs.com/gif.latex?%5Cmathcal%7BH%7D) and ![](https://latex.codecogs.com/gif.latex?%5Cmathcal%7BH%7D%5E2)
 
-
-
 ## C++
 
 ### [HLIBpro](http://www.hlibpro.com) Ronald Kriemann (Leipzig, Max Planck Institute)
@@ -47,6 +45,11 @@ Curated list of [Hierarchical Matrices](http://en.wikipedia.org/wiki/Hierarchica
 ### [LoRaSp](https://bitbucket.org/hadip/lorasp) Hadi Pouransari and Eric Darve (Stanford University)
 - Open source
 - Hierarchical format: ![](https://latex.codecogs.com/gif.latex?%5Cmathcal%7BH%7D%5E2)
+
+## CUDA
+### [hmglib](https://github.com/zaspel/hmglib) Peter Zaspel (University of Basel)
+- Open source
+- Hierarchical format: ![](https://latex.codecogs.com/gif.latex?%5Cmathcal%7BH%7D)
 
 ## Matlab
 ### [Misc](http://amath.colorado.edu/faculty/martinss/2014_CBMS/codes.html) Per-Gunnar Martinsson (University of Colorado Boulder) 

@@ -6,6 +6,10 @@ Curated list of [Hierarchical Matrices](http://en.wikipedia.org/wiki/Hierarchica
 
 ## C
 
+## [HiCMA](https://github.com/ecrc/hicma) Hatem Ltaief, Kadir Akbudak (King Abdullah University of Science and Technology)
+- Open source
+- Hierarchical format: ![](https://latex.codecogs.com/gif.latex?%5Cmathcal%7BH%7D)
+
 ### [Hlib](http://hlib.org/) Lars Grasedyck and Steffen Börm (Leipzig, Max Planck Institute)
 - Source code available through signed license agreement.
 - Hierarchical format: ![](https://latex.codecogs.com/gif.latex?%5Cmathcal%7BH%7D) and ![](https://latex.codecogs.com/gif.latex?%5Cmathcal%7BH%7D%5E2)

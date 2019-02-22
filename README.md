@@ -6,7 +6,7 @@ Curated list of [Hierarchical Matrices](http://en.wikipedia.org/wiki/Hierarchica
 
 ## C
 
-## [HiCMA](https://github.com/ecrc/hicma) Hatem Ltaief, Kadir Akbudak (King Abdullah University of Science and Technology)
+### [HiCMA](https://github.com/ecrc/hicma) Hatem Ltaief, Kadir Akbudak (King Abdullah University of Science and Technology)
 - Open source
 - Hierarchical format: ![](https://latex.codecogs.com/gif.latex?%5Cmathcal%7BH%7D)
 

@@ -50,6 +50,10 @@ Curated list of [Hierarchical Matrices](http://en.wikipedia.org/wiki/Hierarchica
 - Open source
 - Hierarchical format: ![](https://latex.codecogs.com/gif.latex?%5Cmathcal%7BH%7D%5E2)
 
+### [RLCM](https://github.com/jiechenjiechen/RLCM) Jie Chen (IBM)
+- linear complexity assembly
+- sub-linear complexity solves: O(n) many solves in O(n log n) complexity
+
 ## CUDA
 ### [hmglib](https://github.com/zaspel/hmglib) Peter Zaspel (University of Basel)
 - Open source
@@ -88,6 +92,11 @@ Curated list of [Hierarchical Matrices](http://en.wikipedia.org/wiki/Hierarchica
 ### [H2Tools](https://bitbucket.org/muxas/h2tools) Alexander Mikhalev (KAUST / Russian Academy of Sciences) 
 - Open source
 - Hierarchical format: ![](https://latex.codecogs.com/gif.latex?%5Cmathcal%7BH%7D%5E2)
+
+## Julia
+### [KernelMatrices.jl](https://bitbucket.org/cgeoga/kernelmatrices.jl.git) Chris Geoga (Argonne National Laboratory)
+- HODLR matrices with ACA or Nystrom approximation for off-diagonal blocks
+- First and second derivatives of kernel matrices that are continuous with respect to kernel parameters
 
 
 ***

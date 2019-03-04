@@ -28,6 +28,9 @@ Curated list of [Hierarchical Matrices](http://en.wikipedia.org/wiki/Hierarchica
 - Source code available through online license agreement.
 - Hierarchical format: ![](https://latex.codecogs.com/gif.latex?%5Cmathcal%7BH%7D)
 
+### [BBFMM3D](https://github.com/ruoxi-wang/BBFMM3D) W. Fong, and E. Darve (Stanford University)
+- Black-box fast multipole method for general kernels. The FMM is based on Chebyshev and Fourier interpolation methods.
+
 ### [BEM++](https://github.com/bempp/bempp) W. Smigaj, S. Arridge, T. Betcke, J. Phillips, M. Schweiger (University College London)
 - Boundary Integral Problems with BEM++, accelerated by H-Matrices
 
@@ -47,8 +50,8 @@ Curated list of [Hierarchical Matrices](http://en.wikipedia.org/wiki/Hierarchica
 - Open source
 
 ### [LoRaSp](https://bitbucket.org/hadip/lorasp) Hadi Pouransari and Eric Darve (Stanford University)
-- Open source
 - Hierarchical format: ![](https://latex.codecogs.com/gif.latex?%5Cmathcal%7BH%7D%5E2)
+- A revised version of LORASP with additional options and a more modular software design
 
 ### [RLCM](https://github.com/jiechenjiechen/RLCM) Jie Chen (IBM)
 - linear complexity assembly

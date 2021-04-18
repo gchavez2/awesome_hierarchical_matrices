@@ -101,6 +101,9 @@ Curated list of [Hierarchical Matrices](http://en.wikipedia.org/wiki/Hierarchica
 - HODLR matrices with ACA or Nystrom approximation for off-diagonal blocks
 - First and second derivatives of kernel matrices that are continuous with respect to kernel parameters
 
+### [HssMatrices.jl](https://github.com/bonevbs/HssMatrices.jl) Boris Bonev (EPFL)
+- library for HSS matrices in Julia
+- various compression algorithms, fast solvers and multiplication, as well as visualization tools
 
 ***
 ## Feeling generous?

@@ -107,7 +107,7 @@ Curated list of [Hierarchical Matrices](http://en.wikipedia.org/wiki/Hierarchica
 
 ### [HMatrices.jl](https://github.com/WaveProp/HMatrices.jl) Luiz M. Faria (INRIA)
 - ![](https://latex.codecogs.com/gif.latex?%5Cmathcal%7BH%7D) hierarchical format with support for ![](https://latex.codecogs.com/gif.latex?%5Cmathcal%7BH%7D)-LU factorization
-- Focus on applicatiosn to boundary integral equation methods
+- Focus on applications to boundary integral equation methods
 
 ***
 ## Feeling generous?

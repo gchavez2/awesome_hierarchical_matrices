@@ -34,7 +34,7 @@ Curated list of [Hierarchical Matrices](http://en.wikipedia.org/wiki/Hierarchica
 ### [BEM++](https://github.com/bempp/bempp) W. Smigaj, S. Arridge, T. Betcke, J. Phillips, M. Schweiger (University College London)
 - Boundary Integral Problems with BEM++, accelerated by $\mathcal{H}$-Matrices
 
-### [DMHM](https://bitbucket.org/poulson/dmhm) Jack Poulson and Ryan Li (Stanford University and Georgia Tech) 
+### [DMHM](https://github.com/YingzhouLi/dmhm) Jack Poulson and Ryan Li (Stanford University and Georgia Tech) 
 - Open source
 - Hierarchical format: $\mathcal{H}$
 

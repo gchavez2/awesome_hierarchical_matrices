@@ -22,7 +22,7 @@ Curated list of [Hierarchical Matrices](http://en.wikipedia.org/wiki/Hierarchica
 
 ### [HLIBpro](http://www.hlibpro.com) Ronald Kriemann (Leipzig, Max Planck Institute)
 - Binary files only, distributed memory implementation on MPI, on shared memory based on TBB
-- Hierarchical format: $\mathcal{H}$ and $\mathcal{H}$
+- Hierarchical format: $\mathcal{H}$ and $\mathcal{H}^2$
 
 ### [AHMED](https://github.com/xantares/ahmed) Mario Bebendorf and Sergej Rjasanow (University of Bonn) 
 - Source code available through online license agreement.

@@ -110,5 +110,6 @@ Curated list of [Hierarchical Matrices](http://en.wikipedia.org/wiki/Hierarchica
 - Focus on applications to boundary integral equation methods
 
 ***
-## Feeling generous?
-Contributions to this repository are most welcome.
+## Woud you like to add a new library or update a link?
+Please open a pull request, contributions to this repository are most welcome.
+

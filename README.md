@@ -18,6 +18,11 @@ Curated list of [Hierarchical Matrices](http://en.wikipedia.org/wiki/Hierarchica
 - Open source
 - Hierarchical format: $\mathcal{H}$ and $\mathcal{H}^2$
 
+### [H2Pack](https://github.com/scalable-matrix/H2Pack) Hua Huang, Xin Xing, and Edmond Chow (Georgia Tech)
+- Open source (MIT license)
+- Hierarchical format: $\mathcal{H}^2$, HSS
+
+
 ## C++
 
 ### [HLIBpro](http://www.hlibpro.com) Ronald Kriemann (Leipzig, Max Planck Institute)
